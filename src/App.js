@@ -1,11 +1,11 @@
-import React from 'react';
+import React,{Fragment} from 'react';
 import Reloj from './components/Reloj'
 
 function App() {
   return (
-    <div className="bg-gray-300 h-full">
+    <Fragment>
       <Reloj />
-    </div>
+    </Fragment>
   );
 }
 

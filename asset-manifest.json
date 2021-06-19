@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Alarma/static/css/main.67792d56.chunk.css",
-    "main.js": "/Alarma/static/js/main.6cd30f4f.chunk.js",
-    "main.js.map": "/Alarma/static/js/main.6cd30f4f.chunk.js.map",
+    "main.js": "/Alarma/static/js/main.e8a692ad.chunk.js",
+    "main.js.map": "/Alarma/static/js/main.e8a692ad.chunk.js.map",
     "runtime-main.js": "/Alarma/static/js/runtime-main.3e540dc5.js",
     "runtime-main.js.map": "/Alarma/static/js/runtime-main.3e540dc5.js.map",
     "static/js/2.64150b69.chunk.js": "/Alarma/static/js/2.64150b69.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.3e540dc5.js",
     "static/js/2.64150b69.chunk.js",
     "static/css/main.67792d56.chunk.css",
-    "static/js/main.6cd30f4f.chunk.js"
+    "static/js/main.e8a692ad.chunk.js"
   ]
 }
